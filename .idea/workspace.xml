@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="075334a4-b9c3-4b83-bbde-c0a89b4bbcda" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1SknIFXzVtQp9PEr5yVmSwUnxrJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel/laravel6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="075334a4-b9c3-4b83-bbde-c0a89b4bbcda" name="Default Changelist" comment="" />
+      <created>1571080768127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571080768127</updated>
+      <workItem from="1571080771111" duration="4984000" />
+      <workItem from="1571111263329" duration="6043000" />
+      <workItem from="1571142245625" duration="2758000" />
+      <workItem from="1571159136038" duration="7869000" />
+      <workItem from="1571200788550" duration="5944000" />
+      <workItem from="1571284385658" duration="7651000" />
+      <workItem from="1571559344159" duration="265000" />
+      <workItem from="1571559848786" duration="654000" />
+      <workItem from="1571635967652" duration="5553000" />
+      <workItem from="1571855202050" duration="963000" />
+      <workItem from="1571895510594" duration="2669000" />
+      <workItem from="1572115405167" duration="391000" />
+      <workItem from="1572116395149" duration="172000" />
+      <workItem from="1572119576519" duration="2185000" />
+      <workItem from="1572371783596" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
